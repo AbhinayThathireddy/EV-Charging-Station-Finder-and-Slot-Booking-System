@@ -45,7 +45,7 @@ cd backend
 node server.js
 ```
 
-Visit http://localhost:3000 in your browser to access the application.
+6. Visit http://localhost:3000 in your browser to access the application.
 
 ## Tech Stack
 - Frontend: HTML5, CSS3, JavaScript
@@ -69,11 +69,11 @@ EV-WebApp/
 ```
 
 ## Screenshots
-Login page
+***Login page***
 ![image](https://github.com/user-attachments/assets/3a821b29-d347-4628-a708-522aafe01cbe)
 
 
-User Page
+***User Page***
 ![image](https://github.com/user-attachments/assets/4bf3c3ce-80d3-4627-a287-e302be97b22f)
 
 
@@ -82,7 +82,7 @@ User Page
 ![image](https://github.com/user-attachments/assets/43769c5a-fff8-4544-ba10-fedd9a79d4ca)
 
 
-Admin Page
+***Admin Page***
 ![image](https://github.com/user-attachments/assets/526920e5-2938-40f6-b0a5-d9d5b59d2e84)
 
 ![image](https://github.com/user-attachments/assets/c4b4857b-1ded-486a-93bf-ff14ab7185bf)
